@@ -2,6 +2,9 @@
 
 A modern sales analytics dashboard built with Python, Pandas, Streamlit, and Plotly.
 
+
+![NEXUS Sales Analytics Dashboard](screenshots/sales-analytics-dashboard.png)
+
 ## Features
 
 - Upload CSV and Excel sales files
